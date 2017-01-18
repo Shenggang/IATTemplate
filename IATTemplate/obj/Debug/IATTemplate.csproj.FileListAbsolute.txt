@@ -1,0 +1,14 @@
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\bin\Debug\IATTemplate.exe.config
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.csprojResolveAssemblyReference.cache
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\App.g.cs
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate_MarkupCompile.cache
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate_MarkupCompile.lref
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\bin\Debug\IATTemplate.exe
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\bin\Debug\IATTemplate.pdb
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\MainWindow.baml
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.g.resources
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.Properties.Resources.resources
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.csproj.GenerateResource.Cache
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.exe
+C:\Users\hushe\OneDrive\文档\GitHub\IATTemplate\IATTemplate\obj\Debug\IATTemplate.pdb
